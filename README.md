@@ -28,7 +28,7 @@ User Input → Injection Detection → Presidio Analyzer → Policy Decision →
 ## 1. Clone the Repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/llm-security-gateway.git
+git clone https://github.com/AbdullahK29/llm-security-gateway.git
 cd llm-security-gateway
 ```
 
