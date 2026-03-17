@@ -136,10 +136,10 @@ llm-security-gateway
 │
 ├── main.py                # FastAPI application entry point
 ├── injection_detector.py # Prompt injection detection logic
-├── presidio_config.py    # Presidio configuration and custom recognizers
+├── presidio_scanner.py    # Presidio configuration and custom recognizers
 ├── policy_engine.py      # Decision logic for masking or blocking
 ├── tests/
-│   └── test_prompts.txt  # Example prompts used for evaluation
+│   └── Test_prompts.txt  # Example prompts used for evaluation
 ├── requirements.txt      # Python dependencies
 └── README.md
 ```
